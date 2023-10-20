@@ -61,6 +61,7 @@
     transition: 1s ease;
      display: none; 
      display: flex;
+    gap:10px
     min-width: 100px;
     justify-content: space-evenly;
 }
